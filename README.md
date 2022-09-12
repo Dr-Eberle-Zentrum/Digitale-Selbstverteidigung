@@ -1,2 +1,46 @@
-# SaferScience
-Digitale Selbstverteidiung
+[![CC BY-SA 4.0][cc-by-sa-shield]][cc-by-sa]
+
+# SaferScience Digitale Selbstverteidiung
+In diesem diesem Repository findet sich eine Sammlung von Themen und korrespondierenden Quellen/Tips/Links rund um die digitale Selbstverteidung und die digitale Mündigkeit. Ein Fokus liegt dabei auf der digitalen Selbstverteidigung im wissenschaftlichen Umfeld.
+
+## Inhaltsverzeichnis
+
+### [Grundlagen für sichere IT](content/grundlagen.md)
+
+### [Open Source, Lizenzen und Urheberrecht](content/lizenzen.md)
+
+### [Browser und Browsing I](content/browser1.md)
+
+### [Browser und Browsing II](content/browser2.md)
+
+### [Verschlüsselung I: Grundlagen](content/verschluesselung1.md)
+
+### [Verschlüsselung II: Praktische Anwendung](content/verschluesselung2.md)
+
+### [Sichere Kommunikation I - Email](content/kommmunikation1.md)
+
+### [Sichere Kommunikation II: Messenger](content/kommunikation2.md)
+
+### [Sichere Kommunikation III: Videokonferenzen](content/kommunikation3.md)
+
+### [Datensicherheit I: Backup](content/backup.md)
+
+### [Datensicherheit II: Datenschutzn to-go](content/unterwegs.md)
+
+### [Datensicherheit III: Datenschutz für Android](content/smartphone.md)
+
+### [Betriebssysteme I: Windows](content/windows.md)
+
+### [Betriebssysteme II: Linux](content/linux.md)
+
+### [Cloud I: Grundlagen und Rechtliche Fragen](content/cloud1.md)
+
+### [Cloud II: Cloud selbst gemacht](content/cloud2.md)
+
+### [Anonym(er) im Netz: Tor-Netzwerk und Darknet](content/tor.md)
+
+### [Kollaboratives Arbeiten I: Projektmanagement und Teamkommunikation](content/kollaboration.md)
+
+### [Kollaboratives Arbeiten II: Git](content/git.md)
+
+### [Alternative Schreibtools](content/schreiben.md)

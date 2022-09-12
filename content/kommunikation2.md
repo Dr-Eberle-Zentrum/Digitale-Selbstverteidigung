@@ -19,4 +19,3 @@
   * https://www.freie-messenger.de/grundsaetzliches/
   * [Alternativen zu WhatsApp – Instant Messenger | Digitalcourage](https://digitalcourage.de/digitale-selbstverteidigung/messenger)
   * 
-

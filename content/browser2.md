@@ -10,7 +10,7 @@
   * Verknüpfung mit InShop-Tracking
 * Browser absichern: Adblocker, Skriptblocker
 * Lightbeam und Webkoll zur Visualisierung
-* Literatur: siehe Browser und Browsing I
+* Literatur: siehe [Browser und Browsing I](browser2.md)
 * Aufgaben:
   * Suche deine Browsereinstellungen
   * Durchsuche deine Browser-History
@@ -20,4 +20,13 @@
   * eigene Browser datenschutzfreundlich konfigurieren
   * Add-Ons installieren und Anwendung testen: NoScript, Ublock
   * Vergleiche https://clickclickclick.click/ und Lightbeam mit und ohne Plugins
-
+* Literatur:
+  - [Was macht ein Internet-Browser?](https://www.mozilla.org/de/firefox/browsers/what-is-a-browser/)
+  - [How browsers work](https://www.html5rocks.com/de/tutorials/internals/howbrowserswork/)
+  - [Digitale Selbstverteidigung | Digitalcourage](https://digitalcourage.de/digitale-selbstverteidigung/) -> Browser
+  - [Sicher surfen ohne Tracking und Werbung | Digitalcourage](https://digitalcourage.de/digitale-selbstverteidigung/sicher-surfen-ohne-tracking)
+  - ([Tracking im Netz - Wie uns Cookies und Co. verfolgen - YouTube](https://www.youtube.com/watch?v=KsRnKvDvPng))
+  - [Website Tracking: What It Is &amp; How It Works | Avast](https://www.avast.com/c-web-tracking)
+  - [WhoTracks.me - Bringing Transparency to Online Tracking](https://whotracks.me/)
+  - [How you are being tracked in the web | Online Tracking explained - YouTube](https://www.youtube.com/watch?v=wefD2N-GWUo)
+  - [Click](https://clickclickclick.click/)

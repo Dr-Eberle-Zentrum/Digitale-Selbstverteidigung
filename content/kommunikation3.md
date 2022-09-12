@@ -14,4 +14,3 @@
   * https://www.dataguard.de/magazin/zoom-alternativen
   * https://digitalcourage.de/digitale-selbstverteidigung/videokonferenzen-muessen-keine-datenschleudern-sein
   * https://youtube.com/playlist?list=PLvaS3TynazL8qM8yQOwmn3Z8evnN35uCH
-

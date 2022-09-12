@@ -43,4 +43,3 @@
   * https://www.privacy-handbuch.de/handbuch_32l.htm
   * https://digitalcourage.de/digitale-selbstverteidigung/vertrauenswuerdige-e-mail-anbieter
   * https://digitalcourage.de/digitale-selbstverteidigung/email-verschluesselung
-

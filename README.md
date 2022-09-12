@@ -1,6 +1,7 @@
 [![CC BY-SA 4.0][cc-by-sa-shield]][cc-by-sa]
 
 # SaferScience Digitale Selbstverteidiung
+
 In diesem diesem Repository findet sich eine Sammlung von Themen und korrespondierenden Quellen/Tips/Links rund um die digitale Selbstverteidung und die digitale Mündigkeit. Ein Fokus liegt dabei auf der digitalen Selbstverteidigung im wissenschaftlichen Umfeld.
 
 ## Inhaltsverzeichnis
@@ -17,15 +18,15 @@ In diesem diesem Repository findet sich eine Sammlung von Themen und korrespondi
 
 ### [Verschlüsselung II: Praktische Anwendung](content/verschluesselung2.md)
 
-### [Sichere Kommunikation I - Email](content/kommmunikation1.md)
+### [Sichere Kommunikation I - Email](content/kommunikation1.md)
 
 ### [Sichere Kommunikation II: Messenger](content/kommunikation2.md)
 
 ### [Sichere Kommunikation III: Videokonferenzen](content/kommunikation3.md)
 
-### [Datensicherheit I: Backup](content/backup.md)
+### [Datensicherheit I: Datenverwaltung und Backup](content/backup.md)
 
-### [Datensicherheit II: Datenschutzn to-go](content/unterwegs.md)
+### [Datensicherheit II: Datenschutz to-go](content/unterwegs.md)
 
 ### [Datensicherheit III: Datenschutz für Android](content/smartphone.md)
 
@@ -44,3 +45,5 @@ In diesem diesem Repository findet sich eine Sammlung von Themen und korrespondi
 ### [Kollaboratives Arbeiten II: Git](content/git.md)
 
 ### [Alternative Schreibtools](content/schreiben.md)
+
+### [Weitere Themen](content/weiteres.md)

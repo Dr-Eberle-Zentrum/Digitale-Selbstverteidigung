@@ -24,4 +24,3 @@
   * https://www.bmbf.de/SharedDocs/Publikationen/de/bmbf/pdf/urheberrecht-in-der-wissenschaft.html
   * [Open-Source-Lizenzen – Grundlagen und Entscheidungshilfen - Bitfactory - Partner für App Entwicklung und digitale Produkte](https://www.bitfactory.io/de/blog/open-source-lizenzen/)
   * [Erklärung der CC-Lizenzkombinationen - YouTube](https://www.youtube.com/watch?v=Qal5LlrffRw)
-

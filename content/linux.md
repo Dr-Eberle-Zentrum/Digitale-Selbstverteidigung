@@ -14,6 +14,7 @@
 * Wine, Virtualbox o.Ä., Dual-Boot
 * Aufgaben:
   * Etwas lesen, z.B. [11 Reasons Why You Should Switch To Linux](https://itsfoss.com/reasons-switch-linux-windows-xp/)
+  * Programmliste erstellen: Welche Porgramm gibt es auch für Linux? Oder gibt es alternative Programme für Linux?
   * Linux Image herunterladen und mitbringen
 * Praxis:
   * Installation mit Virtualbox (ubuntu, MInt o.ä.)
@@ -27,4 +28,3 @@
   * https://wiki.ubuntuusers.de/Einsteiger/
   * https://itsfoss.com/reasons-switch-linux-windows-xp/
   * [How to run Ubuntu Desktop on a virtual machine using VirtualBox](https://ubuntu.com/tutorials/how-to-run-ubuntu-desktop-on-a-virtual-machine-using-virtualbox#1-overview)
-

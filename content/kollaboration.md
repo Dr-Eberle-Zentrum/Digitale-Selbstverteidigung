@@ -4,7 +4,7 @@
 * Tools:
   * Pads (Cryptpad, Etherpad)
   * Online-Office (Google, MS, Onlyoffice, Nextcloud...)
-  * Videokonferenzen (Bigbluebutton, Jitsi, Signal, )
+  * Videokonferenzen (Bigbluebutton, Jitsi, Signal, ) -> vgl. mit [Videokonferenzen](content/kommunikation3.md)
   * Groupware (Slack, Discord, RocketChat, Kalenderserver nach CalDAV-Standard...)
   * Umfragen: Framadate (z.B. Nuudel von Digitalcourage oder DFN-Terminplaner)
 * Agiles Arbeiten (Scrum? Kanban?)
@@ -22,4 +22,3 @@
   * [Benutzer-Handbuch &mdash; CryptPad 5.0 Dokumentation](https://docs.cryptpad.fr/de/user_guide/index.html)
   * [Online zusammen arbeiten | Digitalcourage](https://digitalcourage.de/digitale-selbstverteidigung/online-zusammen-arbeiten)
   * 
-

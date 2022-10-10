@@ -2,7 +2,7 @@
 
 # SaferScience - Digitale Selbstverteidiung
 
-In diesem diesem Repository findet sich eine Sammlung von Themen und korrespondierenden Quellen, Tips und Links rund um die digitale Selbstverteidigung und die digitale Mündigkeit. Ein Fokus liegt dabei auf der digitalen Selbstverteidigung im wissenschaftlichen Umfeld. Das Repository ist konzipiert worden für das Seminar "SaferScience - Digitale Selbstverteidigung" am [Dr. Eberle Zentrum](eberle-zentrum.uni-tuebingen.de/)
+In diesem diesem Repository findet sich eine Sammlung von Themen und korrespondierenden Quellen, Tips und Links rund um die digitale Selbstverteidigung und die digitale Mündigkeit. Ein Fokus liegt dabei auf der digitalen Selbstverteidigung im wissenschaftlichen Umfeld. Das Repository ist konzipiert worden für das Seminar "SaferScience - Digitale Selbstverteidigung" am [Dr. Eberle Zentrum](www.eberle-zentrum.uni-tuebingen.de/) der Universität Tübingen.
 
 ## Inhaltsverzeichnis
 
@@ -50,7 +50,7 @@ In diesem diesem Repository findet sich eine Sammlung von Themen und korrespondi
 
 # Lizenz
 
-Diese Inhalte wurden von David Kirschenheuter erstellt mit folgender Lizenz erstellt: 
+Diese Inhalte wurden von David Kirschenheuter mit folgender Lizenz erstellt: 
 [Creative Commons Attribution-ShareAlike 4.0 International License][cc-by-sa].
 
 [![CC BY-SA 4.0][cc-by-sa-image]][cc-by-sa]

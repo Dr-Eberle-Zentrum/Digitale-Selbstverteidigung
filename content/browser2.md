@@ -3,14 +3,13 @@
 * Tracking mit Cookies, Fingerprinting und Skripten
 * Suchmaschinen
 * Was macht der private Modus
-* Browserübergreifendes Tracking:
-  * MS- oder Google-Account
+* Tracking über den Browser hinaus:
+  * Microsoft- oder Google-Account im Browser
   * Verknüpfung mit anderen Apps
   * Verknüpfung mit Standortdaten
   * Verknüpfung mit InShop-Tracking
 * Browser absichern: Adblocker, Skriptblocker
-* Lightbeam und Webkoll zur Visualisierung
-* Literatur: siehe [Browser und Browsing I](browser2.md)
+* Lightbeam und Webkoll: Visualisierung von Tracking
 * Aufgaben:
   * Suche deine Browsereinstellungen
   * Durchsuche deine Browser-History

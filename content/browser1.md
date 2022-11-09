@@ -4,4 +4,4 @@
 * Browservergleich (Firefox, Edge, Chrome, Brave, Opera...)
 * Grundlegende Browsereinstellungen
 * Synchronisiermöglichkeiten (z.B. self-hosted)
-* Literatur, Aufgaben und Praxis siehe [Browsing II](content/browser2.md)
+* Literatur, Aufgaben und Praxis siehe [Browsing II](browser2.md)

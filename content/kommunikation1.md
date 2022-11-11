@@ -40,6 +40,6 @@
   
   * https://www.youtube.com/watch?v=O2i9JyDPreQ
   * https://support.mozilla.org/de/kb/openpgp-in-thunderbird-leitfaden-und-faqs
-  * https://www.privacy-handbuch.de/handbuch_32l.htm
+  * https://www.privacy-handbuch.de/handbuch_32l.htm und https://www.privacy-handbuch.de/handbuch_31c.htm
   * https://digitalcourage.de/digitale-selbstverteidigung/vertrauenswuerdige-e-mail-anbieter
   * https://digitalcourage.de/digitale-selbstverteidigung/email-verschluesselung

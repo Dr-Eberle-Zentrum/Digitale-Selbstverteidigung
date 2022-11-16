@@ -2,19 +2,29 @@
 
 * Was ist Email? Wie funktioniert Email?
 
-* Client vs. Browser
-
 * gute Anbieter (grün+sicher)
 
-* E-Mail-Clients: Thunderbird, Outlook, (K9Mail wenn nicht bei Android)...
+* Sichere Übertragung von Emails (RFC 7672, TLS/SSL...)
 
-* Warum nicht im Browser?
+* Client vs. Browser:
+  
+  *  Sicherheit
+
+  *  Funktionalität
+  
+  *  Vergleich von Email-Clients
+      
+     *  Konteneinstellungen in Thunderbird
 
 * PGP-Verschlüsselung mit Thunderbird
 
-* Masterpasswort
+  * Schlüsselerstellung
 
-* PGP mit mobilen Geräten
+  * Schlüsselaustausch
+  
+  * Schlüsselserver
+
+* (PGP mit mobilen Geräten)
 
 * Aufgabe:
   
@@ -34,7 +44,7 @@
   
   * Master-Passwort setzen
   
-  * PGP mit Android
+  * (PGP mit Android)
 
 * Literatur:
   
@@ -43,3 +53,4 @@
   * https://www.privacy-handbuch.de/handbuch_32l.htm und https://www.privacy-handbuch.de/handbuch_31c.htm
   * https://digitalcourage.de/digitale-selbstverteidigung/vertrauenswuerdige-e-mail-anbieter
   * https://digitalcourage.de/digitale-selbstverteidigung/email-verschluesselung
+  * https://blog.lindenberg.one/EmailSicherheitsTest und evtl. https://blog.lindenberg.one/VergleichRfc7672PgpSmime

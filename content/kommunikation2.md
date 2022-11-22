@@ -18,4 +18,4 @@
   * https://www.youtube.com/watch?v=DDJrJ4q1e_U for fun :-)
   * https://www.freie-messenger.de/grundsaetzliches/
   * [Alternativen zu WhatsApp – Instant Messenger | Digitalcourage](https://digitalcourage.de/digitale-selbstverteidigung/messenger)
-  * 
+  * https://www.propublica.org/article/how-facebook-undermines-privacy-protections-for-its-2-billion-whatsapp-users

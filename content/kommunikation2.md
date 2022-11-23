@@ -1,8 +1,9 @@
 ### Sichere Kommunikation II: Messenger
 
 * Vergleich: Telegram, WhatsApp, Signal, Threema, Matrix, BRIAR
-* Zentral vs. Dezentral
-* App vs. Server: was ist Opensource?
+* Zentrale vs. dezentrale Messenger/Kommunikationssysteme (Stichwort föderierte Systeme/Protokolle wie Matrix)
+* Messengerapp vs. Serverseite des Anbieters:
+ *  was ist Opensource und damit transparent?
 * Datenspuren: was sagen Metadaten aus?
 * Proxy: was ist das?
 * Aufgaben:

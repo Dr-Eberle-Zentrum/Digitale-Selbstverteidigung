@@ -24,3 +24,4 @@
   * [Freedombox Installation auf RaspberryPi](https://wiki.debian.org/FreedomBox/Hardware/RaspberryPi4B)
   * [Freedombox Image Download](https://freedombox.org/download/raspberrypi4b/)
   * [Raspberrypi Imager](https://www.raspberrypi.com/software/)
+  * [FreedomBox - Syncthing](https://wiki.debian.org/FreedomBox/Manual/Syncthing)

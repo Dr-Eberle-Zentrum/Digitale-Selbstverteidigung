@@ -15,9 +15,12 @@
   * Verbindung der Clients mit der Cloud
 * Literatur:
   * https://www.youtube.com/watch?v=Lz2GsLPZd58
-  * https://www.raspberrypi.org/documentation/
-  * https://www.raspberrypi.org/magpi-issues/Beginners_Guide_v1.pdf
+  * [https://www.raspberrypi.org/documentation/](https://www.raspberrypi.com/documentation/computers/getting-started.html)
+  * [https://www.raspberrypi.org/magpi-issues/Beginners_Guide_v1.pdf](https://magpi.raspberrypi.com/books/beginners-guide-4th-ed/pdf/download)
   * https://www.makeuseof.com/tag/10-raspberry-pi-projects-beginners/
   * https://digitalcourage.de/digitale-selbstverteidigung/alternativen-zu-dropbox-und-cloud
   * https://www.youtube.com/watch?v=-T0pJngdWhc
   * [GitHub - awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted)
+  * [https://wiki.debian.org/FreedomBox/Hardware/RaspberryPi4B](Freedombox Installation auf RaspberryPi)
+  * [https://freedombox.org/download/raspberrypi4b/](Freedombox Image Download)
+  * [https://www.raspberrypi.com/software/](Raspberrypi Imager)

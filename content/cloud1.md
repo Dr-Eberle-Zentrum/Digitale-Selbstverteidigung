@@ -23,3 +23,4 @@
   * https://de.wikipedia.org/wiki/Cloud_Computing
   * https://digitalcourage.de/digitale-selbstverteidigung/alternativen-zu-dropbox-und-cloud
   * [Google: Vater fotografiert Genitalbereich von krankem Kleinkind – und der Ärger beginnt - DER SPIEGEL](https://www.spiegel.de/netzwelt/netzpolitik/google-vater-fotografiert-genitalbereich-von-krankem-kleinkind-und-der-aerger-beginnt-a-b0703d5e-7109-4271-bfa7-af07b551e105)
+  * [Heise: Automatisierte Scans](https://www.heise.de/hintergrund/Automatisierte-Scans-Microsoft-sperrt-Kunden-unangekuendigt-fuer-immer-aus-7324608.html)

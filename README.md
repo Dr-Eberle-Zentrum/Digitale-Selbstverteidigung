@@ -48,6 +48,8 @@ In diesem diesem Repository findet sich eine Sammlung von Themen und korrespondi
 
 ### [Weitere Themen](content/weiteres.md)
 
+### [Checkliste zur digitalen Selbstverteidigung](content/checkliste.md)
+
 # Lizenz
 
 Diese Inhalte wurden von David Kirschenheuter mit folgender Lizenz erstellt: 

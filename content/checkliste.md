@@ -4,52 +4,111 @@ Die folgende Liste erhebt keinen Anspruch auf Vollständigkeit
 
 ## Browser
 
-+ Firefox
++ Firefox statt Edge oder Chrome
 
-+ NoScript 
++ NoScript-AddOn zum blockieren von schädlichen Skripten
 
-+ UBlock
++ UBlock als Werbeblocker
 
-+ Datenschutzeinstellungen
++ Browsereinstellungen:
+  
+  + Cookies: alle Cookies von Drittanbietern blockieren
+  
+  + Identifizierer, krypto-Miner und Inhalte zur Aktivitätenverfolgung blockieren
+  
+  + Cookies und Website-Daten beim Beenden von Firefox löschen
+  
+  + Chronik und Formulardaten beim beenden löschen
 
 ## Betriebssystem
 
-+ Linux
++ Linux statt Windows oder MacOS
 
-+ Windows ohne Account
++ Wenn Windows 
+  
+  + keinen Microsoft-Account nutzen
+  
+  + Bloatware (kostenlose Apps die bei Neukauf schon da waren) entfernen, besser: neues Gerät selbstständig mit reinem Windows neu installieren
+  
+  + Dateinamenerweiterung einblenden
+  
+  + Datenschutzeinstellungen anpassen (i.d.R. alles ablehnen)
+  
+  + Für den Alltag **keinen** Administratoraccount nutzen
 
-+ Bloatware
++ Festplattenverschlüsselung einrichten
 
-## Smartphone
+## Smartphone und mobile Geräte
 
-+ Tracking unterwegs
++ Android statt iOS (da in iOS kaum Möglichkeiten zur eigenen Anpassung)
 
-+ Alternative Apps und App-Stores
++ Tracking am Smartphone beachten: viele "kostenlose" Apps sind voller Trackingsoftware
 
-+ Google-Abhängigkeit beenden
++ Ggf. Trackingschutz nutzen, z.B. via Blokada
 
-+ WLAN, Bluethooth, Standort, mobile Daten und Co ausschalten
++ Alternative Apps und App-Stores nutzen:
+  
+  + Aurora statt Play-Store
+  
+  + FDroid für Open-Source-Apps
+
++ Signal statt WhatsApp (oder gleich Matrix)
+
++ Google-Abhängigkeit beenden: Google Account entfernen, alternative Android-Betriebssysteme nutzen (CustomROM)
+
++ WLAN, Bluethooth, Standort, mobile Daten und Co ausschalten, wenn nicht benötigt (spart Akku und schütz vor Tracking,, z.B. im Supermarkt)
+
++ Verschlüsselung des gesamten Telefons aktivieren
+
++ Passwort statt Muster zur Anmeldung
+
++ Frage dich: welche Daten/Informationen/Apps brauche ich tatsächlich unbedingt unterwegs und auf welche kann ich verzichten?
+
++ Nutze VPN- und Anonymisierungsdienste wie Tor
 
 ## Email
 
-- Sichere Anbieter
+- Wähle einen sicheren Email-Anbieter (z.B. Posteo.de oder Mailbox.org)
 
-- Client statt Webmail
+- Nutze einen sicheren Mailclient (z.B. Thunderbird) statt Webmail 
 
-- PGP einrichten
+- Rufe deine Nachrichten nur über verschlüsselte Verbindungen ab (SSL/TLS oder STARTTLS)
+
+- Verschlüssele deine Mails Ende-zu-Ende mit PGP
 
 ## Datenhaltung
 
-+ Backup einrichten
++ Richte ein Backup ein
+  + am Besten mit mehrern Versionen auf unterschiedlichen Datenträgern an unterschiedlichen Orten
++ Achte auf eine gut strukturierte Datenhaltung (Ordnerstruktur, Dateibenennung...)
++ Lösche regelmäßig deine Altlasten (Dateien und v.a. Programme)
++ Speichere deine Daten nur an sicheren Orten. Wenn du nicht auf kommerzielle Cloudanbieter (Google, Microsoft, Dropbox etc) verzichten kannst, verschlüssele deine Inhalte, bevor Sie in die Cloud geladen werden (z.B. mit Veracrypt oder Boxcryptor)
++ Suche nach einem sicheren Cloudanbieter oder baue dir deine eigene Cloud (Nextcloud, Owncloud, Seafile, Freedombox, NAS-Systeme...)
 
 ## Passwörter
 
-+ Passwortmanager nutzen: z.B. KeepassXC
++ Nutze einen Passwortmanager: z.B. KeepassXC
 
-+ Besser Passsätze statt Passwörter
++ Nutze Passsätze statt Passwörtern, besser `Sonntags ging Karl um 10, er kaufte Karotten!` statt `SgKu10,ekK!`
 
-## Verschlüsselung
++ Speichere deine Passwörter nur in sicherer Software auf Geräten, die du kontrollierst (wer seine Passwörter nicht speichert und immer neu eintippt, merkt sie sich auch besser)
 
-+ Betriebssystem verschlüsseln (v.a. mobile Geräte): Android, Windows, iOS, Linux
++ Nutze für sensible Dienste eine Zwei-Faktor-Authentifizierung
 
-+ einzelne Dateien, Festplatten oder ganze Geräte verschlüsseln mit Veracrypt
+## Allgemeine Tips
+
++ verschlüssele dein Betriebssystem (v.a. mobile Geräte): Android, Windows, iOS, Linux
+
++ verschlüssele einzelne sensible Dateien, Festplatten oder ganze Geräte mit Veracrypt
+
++ Nutze Open Source-Software statt Closed Source-Programme
+
++ Informiere dich über Soft- und Hardware die du nutzt
+
++ Werde digital mündig: mach dich schlau, denke nach und vertraue nicht blind auf Dienste, die dir "unter die Nase gerieben werden"
+
++ Bezahle bewusst Geld für einen guten Dienst, statt unbewusst Unmengen an persönlichen Daten für eine Datenkrake zu bezahlen (z.B. besser 12€/Jahr für einen sicheren Mailanbieter zahlen, statt sich "kostenlos" von einem unsicheren Mailanbieter über die Schulter schauen zu lassen)
+
++ Zahle Bar statt mit Karte o.Ä.
+
++ Verzichte auf unnötige Merchandising-Apps im Supermarkt, Shopping-Center etc.

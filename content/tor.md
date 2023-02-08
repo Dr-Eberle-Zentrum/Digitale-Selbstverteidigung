@@ -33,4 +33,5 @@
   * https://de.wikipedia.org/wiki/Tor_(Netzwerk)#Kritik_und_Schwachstellen
   * https://www.myrasecurity.com/de/tor-netzwerk/
   * [Zensurfreier DNS-Server | Digitalcourage](https://digitalcourage.de/support/zensurfreier-dns-server)
-
+  * [TOR-Project: Training Resources](https://community.torproject.org/training/resources/)
+  * [GDATA - Was ist das Darknet?](https://www.gdata.de/ratgeber/was-ist-eigentlich-das-darknet)

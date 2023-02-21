@@ -46,6 +46,8 @@ In diesem diesem Repository findet sich eine Sammlung von Themen und korrespondi
 
 ### [Alternative Schreibtools](content/schreiben.md)
 
+### [Geld und Datenschutz](content/bezahlen.md)
+
 ### [Weitere Themen](content/weiteres.md)
 
 ### [Checkliste zur digitalen Selbstverteidigung](content/checkliste.md)

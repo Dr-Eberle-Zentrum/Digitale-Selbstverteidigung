@@ -19,6 +19,7 @@
   * eigene Browser datenschutzfreundlich konfigurieren
   * Add-Ons installieren und Anwendung testen: NoScript, Ublock
   * Vergleiche https://clickclickclick.click/ und Lightbeam mit und ohne Plugins
+  * Eine komplexe URL zerlegen und verstehen, z.B. eine Google-Suche
 * Literatur:
   - [Was macht ein Internet-Browser?](https://www.mozilla.org/de/firefox/browsers/what-is-a-browser/)
   - [How browsers work](https://www.html5rocks.com/de/tutorials/internals/howbrowserswork/)
@@ -29,3 +30,4 @@
   - [WhoTracks.me - Bringing Transparency to Online Tracking](https://whotracks.me/)
   - [How you are being tracked in the web | Online Tracking explained - YouTube](https://www.youtube.com/watch?v=wefD2N-GWUo)
   - [Click](https://clickclickclick.click/)
+  - Digitalcourage: Links verstehen

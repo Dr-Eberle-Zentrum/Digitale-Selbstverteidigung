@@ -48,6 +48,8 @@ In diesem diesem Repository findet sich eine Sammlung von Themen und korrespondi
 
 ### [Geld und Datenschutz](content/bezahlen.md)
 
+### [Links verstehen](content/links_verstehen.md)
+
 ### [Weitere Themen](content/weiteres.md)
 
 ### [Checkliste zur digitalen Selbstverteidigung](content/checkliste.md)

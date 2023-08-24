@@ -1,7 +1,11 @@
 ### Browser und Browsing II
 
 * Tracking mit Cookies, Fingerprinting und Skripten
+* Werbung und Datenhandel im Netz
 * Suchmaschinen
+ * Marktmacht
+ * Beeinflussung der Suchergebnisse
+ * Stichwort "Filterblase"
 * Was macht der private Modus
 * Tracking über den Browser hinaus:
   * Microsoft- oder Google-Account im Browser
@@ -21,6 +25,7 @@
   * Vergleiche https://clickclickclick.click/ und Lightbeam mit und ohne Plugins
   * Eine komplexe URL zerlegen und verstehen, z.B. eine Google-Suche
 * Literatur:
+  - [Netzpolitik Datenhändler](https://netzpolitik.org/2023/europa-vergleich-wie-eng-uns-datenhaendler-auf-die-pelle-ruecken/#netzpolitik-pw)
   - [Was macht ein Internet-Browser?](https://www.mozilla.org/de/firefox/browsers/what-is-a-browser/)
   - [How browsers work](https://www.html5rocks.com/de/tutorials/internals/howbrowserswork/)
   - [Digitale Selbstverteidigung | Digitalcourage](https://digitalcourage.de/digitale-selbstverteidigung/) -> Browser

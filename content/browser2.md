@@ -25,6 +25,7 @@
   * Vergleiche https://clickclickclick.click/ und Lightbeam mit und ohne Plugins
   * Eine komplexe URL zerlegen und verstehen, z.B. eine Google-Suche
 * Literatur:
+  - [Überblick zu Trackingmethoden aus Sicht von Werbetreibenden: Park 7](https://www.park-sieben.com/blog/cookieless-tracking-einfach-erklaert)
   - [Netzpolitik Datenhändler](https://netzpolitik.org/2023/europa-vergleich-wie-eng-uns-datenhaendler-auf-die-pelle-ruecken/#netzpolitik-pw)
   - [Was macht ein Internet-Browser?](https://www.mozilla.org/de/firefox/browsers/what-is-a-browser/)
   - [How browsers work](https://www.html5rocks.com/de/tutorials/internals/howbrowserswork/)

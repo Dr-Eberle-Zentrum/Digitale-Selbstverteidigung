@@ -8,6 +8,7 @@
     * Beurteilung, welche sind sicher?
   * Grundlegende Schwachstellen (Algorithmus berechenbar, Schlüssel zu kurz, Abhören bei Ein- oder Ausgabe)
   * Kerkhoffs'sches Prinzip
+  * Chancen und Risiken von Quantum Computing
 
 * Aufgaben:
   
@@ -28,4 +29,5 @@
   * https://www.elektronik-kompendium.de/sites/net/1910101.htm
   * https://www.ionos.de/digitalguide/server/sicherheit/verschluesselungsverfahren-ein-ueberblick/
   * https://www.youtube.com/watch?v=NPHlmQnZhv4&list=PLmoGmeo05QuJcK2myHmt9HBnnsHBmg2np
+  * https://www.reuters.com/graphics/USA-CHINA/QUANTUM/gkplxnozqpb/
 

@@ -5,7 +5,8 @@
 * Systemverschlüsselung
 * USB-Sticks (Verschlüsselung und Gefahr bei fremden Sticks)
 * offene WLANs
-* Bluethooth und andere Funknetze (Einfallstor und Tracking), In-Store-Tracking
+* Bluethooth und andere Funknetze (Einfallstor und Tracking)
+* In-Store-Tracking bzw. Offline-Tracking: Location based services, Consumer Data Industry, Cross Device Consumer History
 * VPN
 * Welche Daten werden wirklich unterwegs benötigt
 * Rückversicherungen: Remote-Zugriff, Blockieren, Löschen
@@ -30,4 +31,5 @@
   * https://www.youtube.com/watch?v=qnCQd3Q0bWI
   * [In-Store-Tracking: Wo der Hotspot im Shop ist - DMS](https://www.digitale-medien.at/instore-tracking-wo-der-hotspot-im-shop-ist/)
   * [How easy is it to capture data on public free Wi-Fi? - Gary explains - YouTube](https://www.youtube.com/watch?v=YzP3ZL4vlkY)
+  * [Vortrag Offline-Tracking: Track me if you...oh](https://media.ccc.de/v/35c3chaoswest-25-track-me-if-you-oh-)
 

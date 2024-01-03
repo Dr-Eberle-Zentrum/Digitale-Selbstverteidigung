@@ -8,18 +8,18 @@
 
 * Client vs. Browser:
   
-  *  Sicherheit
-
-  *  Funktionalität
+  * Sicherheit
   
-  *  Vergleich von Email-Clients
-      
-     *  Konteneinstellungen in Thunderbird
+  * Funktionalität
+  
+  * Vergleich von Email-Clients
+    
+    * Konteneinstellungen in Thunderbird
 
 * PGP-Verschlüsselung mit Thunderbird
-
+  
   * Schlüsselerstellung
-
+  
   * Schlüsselaustausch
   
   * Schlüsselserver

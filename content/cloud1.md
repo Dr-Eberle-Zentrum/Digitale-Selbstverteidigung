@@ -20,12 +20,14 @@
   * Nextcloud-Demo zeigen, evtl. in virtueller Maschine eigenen Server nutzen
 * Literatur:
   - Grundlagen:
+    
     - [Cloud Computing – Wikipedia](https://de.wikipedia.org/wiki/Cloud_Computing)
     - [Alternativen zu Dropbox und Cloud | Digitalcourage](https://digitalcourage.de/digitale-selbstverteidigung/alternativen-zu-dropbox-und-cloud)
     - [Google: Vater fotografiert Genitalbereich von krankem Kleinkind – und der Ärger beginnt - DER SPIEGEL](https://www.spiegel.de/netzwelt/netzpolitik/google-vater-fotografiert-genitalbereich-von-krankem-kleinkind-und-der-aerger-beginnt-a-b0703d5e-7109-4271-bfa7-af07b551e105)
   - Anbietervergleich:
     - Internetseiten der jeweiligen Anbieter
   - Rechtliche Situation:
+    - [Heise.de - US CLOUD Act](https://www.heise.de/select/ix/2018/7/1530927567503187)
     - https://www.bundestag.de/resource/blob/852984/692120a134f9e79999c6f4170a47859a/WD-3-102-21-pdf-data.pdf
     - [Golem.de: IT-News für Profis](https://www.golem.de/news/vergabekammer-clouddienste-von-us-firmentoechtern-sind-nicht-dsgvo-konform-2208-167456.html)
     - [Nachfolger für Privacy Shield beschlossen: EU und USA einigen sich auf Datenschutzabkommen](https://www.wbs-law.de/it-und-internet-recht/datenschutzrecht/nachfolger-fuer-privacy-shield-beschlossen-eu-und-usa-einigen-sich-auf-datenschutzabkommen-59647/)

@@ -54,3 +54,4 @@
   * https://digitalcourage.de/digitale-selbstverteidigung/vertrauenswuerdige-e-mail-anbieter
   * https://digitalcourage.de/digitale-selbstverteidigung/email-verschluesselung
   * https://blog.lindenberg.one/EmailSicherheitsTest und evtl. https://blog.lindenberg.one/VergleichRfc7672PgpSmime
+  * [Ubuntu GPG-Guide zur Schlüsselverwaltung](https://help.ubuntu.com/community/GnuPrivacyGuardHowto)

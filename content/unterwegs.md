@@ -1,25 +1,30 @@
 ### Datensicherheit II: Daten unterwegs
 
-* Displayschutz
-* PIN, Passwort
-* Systemverschlüsselung
-* USB-Sticks (Verschlüsselung und Gefahr bei fremden Sticks)
-* offene WLANs
-* Bluethooth und andere Funknetze (Einfallstor und Tracking)
-* In-Store-Tracking bzw. Offline-Tracking: Location based services, Consumer Data Industry, Cross Device Consumer History
-* VPN
-* Welche Daten werden wirklich unterwegs benötigt
-* Rückversicherungen: Remote-Zugriff, Blockieren, Löschen
-* RFID und NFC 
+* Einfache Schutzmaßnahmen:
+  * Displayschutz
+  * PIN, Passwort, Muster, Biometrie
+  * Systemverschlüsselung
+  * USB-Sticks (Verschlüsselung und Gefahr bei fremden Sticks)
+  * offene WLANs
+  * Bluethooth und andere Funknetze (Einfallstor und Tracking)
+  * Welche Daten werden wirklich unterwegs benötigt
+  * Rückversicherungen: Remote-Zugriff, Blockieren, Löschen
+* InStore- oder Offlinetracking
+  * Stichworte: Location based services, Consumer Data Industry, Cross Device Consumer History
+  * RFID und NFC 
+* VPN: Vor- und Nachteile
+* Apples Airtags und Googles "Finde mein Gerät"
+  * Funktion der Technologie
+  * Gefahren
+  * Schutzmaßnahmen
 * Aufgaben:
-  * Welche Daten liegen so auf dem USB-Stick?
-  * Welche Funkverbindungen sind immer aktiv?
-  * Wie viele unbekannte WLAN-Netze sind im Smartphone gespeichert?
-  * Ist dein mobiles Gerät verschlüsselt? Welche Daten liegen auf einer SD-Karte?
+  * Eigene Geräte und eigenes Verhalten untersuchen
 * Praxis:
   * Pin oder Passwort am Handy aktivieren
   * VPN fürs Uni-Netz einrichten
-  * WLAN-Einstellungen: im Standby ausschalten
+  * AirGuard-App: Umgebung auf Tracker scannen
+  * Geräte-Einstellungen: 
+    * WLAN, Standort, mobile Daten im Standby/bei Nichtnutzung ausschalten
 * Literatur:
   * https://digitalcourage.de/digitale-selbstverteidigung/befreien-sie-ihr-smartphone#linse
   * https://www.spectrio.com/retail/7-in-store-analytics-you-can-track-with-wifi-marketing/

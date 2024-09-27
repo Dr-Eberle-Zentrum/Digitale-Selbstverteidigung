@@ -1,15 +1,16 @@
 ### Sichere Kommunikation III: Videokonferenzen
 
-* Anbieter Vergleich: Zoom, BBB, Jitsi, Nextcloud Talk, Discord, Skype, Microsoft 365
+* Anbieter Vergleich: Bigbluebutton, Jitsi, Nextcloud Talk, OpenTalk, Zoom, Discord, Skype, Microsoft 365
 * OBS-Studio: Virtuelle Kamera, Hintergrund ausblenden, mehrere Kameras, Freistellen...
 * Aufgaben:
-  * Welche Videokonferenzsystem werden genutzt?
+  * Welche Videokonferenzsystem nutzen Sie bzw. müssen Sie nutzen?
   * Auf welchen Servern laufen die Anwendungen? Welcher Rechtsstand ist gültig?
+  * Suchen Sie eine passende Instanz für Jitsi und Bigbluebutton
 * Praxis:
+  * Verschiedene Plattformen zeigen und ggf. testen
   * OBS installieren
   * Kamera in OBS einbinden und abändern/zuschneiden etc
-  * OBS virtuelle Kamera in Videokonferenz nutzen
-  * Präsentation dazuklicken
+  * Szene in OBS mit virtueller Kamera und Präsentation erstellen
 * Literatur
   * https://www.dataguard.de/magazin/zoom-alternativen
   * https://digitalcourage.de/digitale-selbstverteidigung/videokonferenzen-muessen-keine-datenschleudern-sein

@@ -1,5 +1,7 @@
 ### Links verstehen
 
+**Überlappung mit Thema [Browser 1](browser1.md)
+
 * Inhalte:
   * URLs vs. URIs
   * Aufbau von ULRs/URIs
@@ -11,8 +13,8 @@
     * z.B. Newsletter, Websuchen
   * 
 * Aufgabe:
-  * Quiz/Übung von Digitalcourage
+  * Links lesen
 * Praxis:
   * Links anpassen, z.B. von Newslettern, Suchergebnissen, Shoppingergebnissen
 * Literatur:
-  * Wird ergänzt...
+  * [Digitalcourage: Was ein Link verrät](https://digitalcourage.de/digitale-selbstverteidigung/was-ein-link-verraet)

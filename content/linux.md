@@ -6,18 +6,16 @@
   * Treiber
   * Programme
   * GUI
-* Distributionen
-* Installation
-* Dateisystem
-* Paketverwaltung
+* Was sind Distributionen?
+* Installation einer Linux-Distribution
+* Das Linux-Dateisystem
+* Softwareverwaltung unter Linux
 * Nützliche Programme
-* Wine, Virtualbox o.Ä., Dual-Boot
+* Windows unter Linux: Wine, Virtualisierung und Dual-Boot
 * Aufgaben:
-  * Etwas lesen, z.B. [11 Reasons Why You Should Switch To Linux](https://itsfoss.com/reasons-switch-linux-windows-xp/)
-  * Programmliste erstellen: Welche Porgramm gibt es auch für Linux? Oder gibt es alternative Programme für Linux?
-  * Linux Image herunterladen und mitbringen
+  * Leseaufgabe 
 * Praxis:
-  * Installation mit Virtualbox (ubuntu, MInt o.ä.)
+  * Installation mit Virtualbox (ubuntu, Mint, Fedora o.ä.)
   * GUI zeigen/nutzen:
     * Dateiverwaltung
     * Programmverwaltung, irgendetwas installieren

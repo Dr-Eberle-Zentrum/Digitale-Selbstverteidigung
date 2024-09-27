@@ -1,26 +1,27 @@
 ### Datensicherheit I: Datenverwaltung und Backup
 
 * Grundlagen von Backupstrategien: 
-  * inkremenetell, Versionierung,
+  * Vollsicherung, diferrentielle und inkremenetelle Sicherung
+  * Versionierung
   * Speicherort
   * System vs. Daten
-  * Server-Client vs. standalone...
-* Softwarelösungen (Onboard-Tools von Windows, Mac, Linux)
-* Softwarelösungen (Drittanbieter):
+  * Server-Client-Lösungen vs. Standalone-Lösungen
+* Softwarelösungen:
+  * Onboard-Tools von Windows, Mac, Linux
   * Duplicati
   * RSYNC
   * PersBackup
   * FreeFileSync
   * UrBackup
   * Bacula
+  * Veeam
   * Syncthing
   * u.v.m
-* Hardwarelösungen (NAS, Cloud, Festplatte)
+* Hardwarelösungen
+  * NAS, Cloud, Festplatte
   * RAID ist kein Backup!
 * Aufgabe:
-  * Wo sind deine Daten?
-  * Welche sind wichtig?
-  * Risikoabschätzung: Wie schlimm wäre ein Verlust deines Hauptcomputers?
+  * Risikoabschätzung durchführen
 * Praxis:
   * min. 2 Backup-Programme installieren und testen
   * Backup (mit Versionierung) und Restore durchführen

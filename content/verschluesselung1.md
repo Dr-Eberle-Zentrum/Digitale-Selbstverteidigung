@@ -18,7 +18,7 @@
 
 * Praxis: 
   
-  * Wireshark: HTTP-Verbindung beobachten und TLS-Handshake nachvollziehen?
+  * Wireshark: HTTP-Verbindung beobachten und TLS-Handshake nachvollziehen
     * [Wireshark Packet Sniffing Usernames, Passwords, and Web Pages - YouTube](https://www.youtube.com/watch?v=r0l_54thSYU)
 
 * Literatur:

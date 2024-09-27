@@ -1,5 +1,7 @@
 # Checkliste zur Digitalen Selbstverteidung
 
+Stand: Sommer 2023
+
 Die folgende Liste erhebt keinen Anspruch auf Vollständigkeit
 
 ## Browser

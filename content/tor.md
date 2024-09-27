@@ -10,7 +10,12 @@
 
 * Tails
 
-* DNS und Zensurumgehung
+* Zensurumgehung ohne TOR
+  * TOR
+  * [Goodbye DPI](https://github.com/ValdikSS/GoodbyeDPI)
+  * VPN
+  * [Psiphon](https://psiphon.ca/)
+  * Proxyserver
 
 * Aufgabe:
   
@@ -26,7 +31,7 @@
 
 * Literatur
 
-* * https://digitalcourage.de/digitale-selbstverteidigung/anonym-dank-tor-und-unseres-privacy-dongles
+  * [Anonym dank Tor | Digitalcourage](https://digitalcourage.de/digitale-selbstverteidigung/tor-und-privacy-dongle)
   * https://digitalcourage.de/support/tor
   * https://www.bsi.bund.de/DE/Themen/Verbraucherinnen-und-Verbraucher/Informationen-und-Empfehlungen/Darknet-und-Deep-Web/darknet-und-deep-web_node.html
   * https://www.youtube.com/watch?v=IIfK41NTsxU
@@ -35,3 +40,4 @@
   * [Zensurfreier DNS-Server | Digitalcourage](https://digitalcourage.de/support/zensurfreier-dns-server)
   * [TOR-Project: Training Resources](https://community.torproject.org/training/resources/)
   * [GDATA - Was ist das Darknet?](https://www.gdata.de/ratgeber/was-ist-eigentlich-das-darknet)
+  * [Behörden unterwandern Tor-Netzwerk](https://www.golem.de/news/deanonymisierung-von-nutzern-behoerden-unterwandern-tor-netzwerk-2409-189076.html)

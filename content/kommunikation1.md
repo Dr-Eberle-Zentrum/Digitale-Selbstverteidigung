@@ -6,15 +6,13 @@
 
 * Sichere Übertragung von Emails (RFC 7672, TLS/SSL...)
 
-* Client vs. Browser:
-  
-  * Sicherheit
-  
-  * Funktionalität
-  
-  * Vergleich von Email-Clients
+* Vergleich von Email-Clients
+
+    * Vorsicht bei Outlook: 
+
+    * Browseranwendungen (Sicherheit und Funktionalität)
     
-    * Konteneinstellungen in Thunderbird
+    * Thunderbird
 
 * PGP-Verschlüsselung mit Thunderbird
   
@@ -24,17 +22,13 @@
   
   * Schlüsselserver
 
+  * Masterpasswort
+
 * (PGP mit mobilen Geräten)
 
 * Aufgabe:
   
-  * informiere dich über deinen Mail-Provider:
-    
-    * Geldquellen? Werbung? Bezahlung?
-    
-    * Datenschutz-Standards
-    
-    * Kritik
+  * informiere dich über deinen Mail-Provider    
 
 * Praxis
   
@@ -55,3 +49,4 @@
   * https://digitalcourage.de/digitale-selbstverteidigung/email-verschluesselung
   * https://blog.lindenberg.one/EmailSicherheitsTest und evtl. https://blog.lindenberg.one/VergleichRfc7672PgpSmime
   * [Ubuntu GPG-Guide zur Schlüsselverwaltung](https://help.ubuntu.com/community/GnuPrivacyGuardHowto)
+  * Vorsicht bei Outlook: [golem.de](https://www.golem.de/news/e-mail-konten-neues-outlook-uebermittelt-wohl-zugangsdaten-an-microsoft-2311-179296.html) und [heise.de](https://www.heise.de/news/Neues-Outlook-Microsoft-bezieht-Stellung-zur-Uebertragung-von-Zugangsdaten-9528869.html)

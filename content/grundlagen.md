@@ -14,28 +14,32 @@
 
 * Backups (Später eigene Sitzung)
 
-* Passwörter und Passwortmanager
+* *Passwörter und Passwortmanager*
   
-  * Vergleich
-  * Vorstellung
-  * Vorteile/Nachteile
-  * Account-Management
+  * Vergleich von Programmen/Lösungen
+    * KeepassXC
+    * Bitwarden
+    * inkludierte Programme (z.B. im Virenschutz)
+  * Weitere Gründe für Passwortmanager
+    * z.B. Accountmanagement und -überblick 
+
 
 * Aufgaben:
   
-  * genutzte Dienste/Plattformen/Accounts auf notieren. Welche der Dienste nutzen Sie nicht mehr?
+  * genutzte Dienste/Plattformen/Accounts notieren. Welche der Dienste nutzen Sie nicht mehr?
   * Wie viele der bei Ihnen installierten Programme können Sie nicht zuordnen?
 
 * Praxis:
   
-  * Passwortmanager installieren und einsetzen
-  * Ausgewählte Passwörter teilen
+  * Passwortmanager (KeepassXC) installieren und einsetzen
+    * Keeshare, Passkeys, Browserintegration...
 
 * Literatur:
   
-  * https://www.youtube.com/watch?v=jtFc6B5lmIM
+  * [Youtube](https://www.youtube.com/watch?v=jtFc6B5lmIM)
   * Passwortmanager: 
-    * https://www.tomsguide.com/us/best-password-managers,review-3785.html
-    * https://www.bsi.bund.de/DE/Themen/Verbraucherinnen-und-Verbraucher/Informationen-und-Empfehlungen/Cyber-Sicherheitsempfehlungen/Accountschutz/Sichere-Passwoerter-erstellen/Passwort-Manager/passwort-manager_node.html
+    * [Tomsguide](https://www.tomsguide.com/us/best-password-managers,review-3785.html)
+    * [BSI](https://www.bsi.bund.de/DE/Themen/Verbraucherinnen-und-Verbraucher/Informationen-und-Empfehlungen/Cyber-Sicherheitsempfehlungen/Accountschutz/Sichere-Passwoerter-erstellen/Passwort-Manager/passwort-manager_node.html)
   * Grundlagen: 
-    * https://www.pc-magazin.de/ratgeber/pc-sicherheit-goldene-regeln-tipps-3196621.html
+    * [PC-Magazin](https://www.pc-magazin.de/ratgeber/pc-sicherheit-goldene-regeln-tipps-3196621.html)
+    [Digitalcourage - Passwörter](https://digitalcourage.de/digitale-selbstverteidigung/sicherheit-beginnt-mit-starken-passwoertern)

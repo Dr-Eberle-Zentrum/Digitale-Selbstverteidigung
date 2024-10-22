@@ -11,6 +11,7 @@
   * Dateiendungen einblenden
   * Versteckte Dateien
   * Umgang mit ZIP-Archiven
+  * Temoporäre Dateien entfernen und Storage Sense
 * Firewall und Virenschutz
 * WSL (Windows Subsystem for Linux):
 * Aufgaben:
@@ -26,3 +27,4 @@
   * [Windows 11 mit lokalem Konto | Deskmodder](https://www.deskmodder.de/wiki/index.php?title=Windows_11_mit_einem_lokalen_oder_Microsoft_Konto_installieren)
   * [WSL Softwareinstallation](https://dr-eberle-zentrum.github.io/DataBASHing/install.html)
   * [Linux now | Digitalcourage](https://digitalcourage.de/digitale-selbstverteidigung/gnulinux-now)
+  * [AVG - Temporäre Dateien](https://www.avg.com/de/signal/top-three-ways-to-clean-temporary-files-from-your-computer)

@@ -13,10 +13,10 @@
   - Freie Materialien zu einem Thema suchen
     - Bilder, Icons, Texte
 - Literatur:
-  - https://www.blog.lehren.tum.de/kostenlose-bilder-creative-commons/
-  - https://www.uni-wuerzburg.de/fileadmin/uniwue/Presse/Neue_Seiten/Freie_Lizenzen_erklaert_-_Broschuere_der_Bertelsmann-Stiftung.pdf
-  - https://www.bildung-forschung.digital/de/lizenzvertrag-und-offene-lizenzen-2650.html
-  - https://www.bmbf.de/SharedDocs/Publikationen/de/bmbf/pdf/urheberrecht-in-der-wissenschaft.html
+  - [TU München: Veröffentlichung wissenschaftlicher Daten und Softwareprogramme](https://mediatum.ub.tum.de/doc/1289704/1289704.pdf)
+  - [Bertelsmann Stiftung Broschüre zu freien Lizenzen](https://www.bertelsmann-stiftung.de/fileadmin/files/BSt/Publikationen/Infomaterialien/IN_Freie_Lizenzen_-_einfach_erklaert_Broschuere_2017_07_20.pdf
+  - [bildung-forschung.digital: Open Access](https://www.bildung-forschung.digital/digitalezukunft/de/wissen/open-access/open-access-publizieren/open-access-publizieren_node.html)
+  - [BMBF: Urheberrecht in der Wissenschaft](https://www.bmbf.de/SharedDocs/Publikationen/de/bmbf/1/31518_Urheberrecht_in_der_Wissenschaft.pdf?__blob=publicationFile&v=6)
   - [Open-Source-Lizenzen – Grundlagen und Entscheidungshilfen - Bitfactory - Partner für App Entwicklung und digitale Produkte](https://www.bitfactory.io/de/blog/open-source-lizenzen/)
   - [Erklärung der CC-Lizenzkombinationen - YouTube](https://www.youtube.com/watch?v=Qal5LlrffRw)
   - [Bundesministerium der Justiz KI und Urheberrecht](https://www.bmj.de/SharedDocs/Downloads/DE/Themen/Nav_Themen/240305_FAQ_KI_Urheberrecht.pdf?__blob=publicationFile&v=2)

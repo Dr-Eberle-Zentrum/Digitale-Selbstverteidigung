@@ -1,6 +1,6 @@
 # Checkliste zur Digitalen Selbstverteidung
 
-Stand: Sommer 2023
+Stand: Winter 2024/25
 
 Die folgende Liste erhebt keinen Anspruch auf Vollständigkeit
 
@@ -22,13 +22,15 @@ Die folgende Liste erhebt keinen Anspruch auf Vollständigkeit
   
   + Chronik und Formulardaten beim beenden löschen
 
+  + Werbeeinstellungen für Webistes: deaktivieren
+
 ## Betriebssystem
 
 + Linux statt Windows oder MacOS
 
 + Wenn Windows 
   
-  + keinen Microsoft-Account nutzen
+  + keinen Microsoft-Account nutzen (bei der Installation Offline-Konto einrichten)
   
   + Bloatware (kostenlose Apps die bei Neukauf schon da waren) entfernen, besser: neues Gerät selbstständig mit reinem Windows neu installieren
   
@@ -38,7 +40,7 @@ Die folgende Liste erhebt keinen Anspruch auf Vollständigkeit
   
   + Für den Alltag **keinen** Administratoraccount nutzen
 
-+ Festplattenverschlüsselung einrichten (Windows: Bitlocker, Linux: LUKS, Plattformübergreifen: Veracrypt)
++ Festplattenverschlüsselung einrichten (Windows: Bitlocker, Linux: LUKS, Plattformübergreifend: Veracrypt)
 
 ## Smartphone und mobile Geräte
 
@@ -46,13 +48,11 @@ Die folgende Liste erhebt keinen Anspruch auf Vollständigkeit
 
 + Tracking am Smartphone beachten: viele "kostenlose" Apps sind voller Trackingsoftware (siehe [Exodus](https://reports.exodus-privacy.eu.org/de/))
 
-+ Ggf. Trackingschutz nutzen, z.B. via Blokada
-
 + Alternative Apps und App-Stores nutzen:
   
   + Aurora statt Play-Store
   
-  + FDroid für Open-Source-Apps
+  + FDroid für Open-Source-Apps (AntennaPod, Fossify-Apps, Aegis, SecScanQR)
 
 + Signal statt WhatsApp (oder gleich Matrix)
 
@@ -62,7 +62,7 @@ Die folgende Liste erhebt keinen Anspruch auf Vollständigkeit
 
 + WLAN, Bluethooth, Standort, mobile Daten und Co ausschalten, wenn nicht benötigt (spart Akku und schütz vor Tracking, z.B. im Supermarkt)
 
-+ Verschlüsselung des gesamten Telefons aktivieren
++ Verschlüsselung des gesamten Telefons aktivieren, inkl. SD-Karte
 
 + Passwort statt Muster zur Anmeldung
 
@@ -85,8 +85,8 @@ Die folgende Liste erhebt keinen Anspruch auf Vollständigkeit
 + Richte ein Backup ein
   + am Besten mit mehrern Versionen auf unterschiedlichen Datenträgern an unterschiedlichen Orten
 + Achte auf eine gut strukturierte Datenhaltung (Ordnerstruktur, Dateibenennung...)
-+ Lösche regelmäßig deine Altlasten (Dateien und v.a. Programme)
-+ Speichere deine Daten nur an sicheren Orten. Wenn du nicht auf kommerzielle Cloudanbieter (Google, Microsoft, Dropbox etc) verzichten kannst, verschlüssele deine Inhalte, bevor Sie in die Cloud geladen werden (z.B. mit Veracrypt)
++ Lösche regelmäßig deine Altlasten (Dateien und v.a. Programme und temoporäre Dateien)
++ Speichere deine Daten nur an sicheren Orten. Wenn du nicht auf kommerzielle Cloudanbieter (Google, Microsoft, Dropbox etc) verzichten kannst, verschlüssele deine Inhalte, bevor Sie in die Cloud geladen werden (z.B. mit Veracrypt,cryptomator o.Ä.)
 + Suche nach einem sicheren Cloudanbieter oder baue dir deine eigene Cloud (Nextcloud, Owncloud, Seafile, Freedombox, Syncthing, NAS-Systeme...)
 
 ## Passwörter
@@ -99,9 +99,17 @@ Die folgende Liste erhebt keinen Anspruch auf Vollständigkeit
 
 + Nutze für sensible Dienste eine Zwei-Faktor-Authentifizierung
 
-## Allgemeine Tips
++ Ziehe den Einsatz von Passkeys in betracht
 
-+ verschlüssele dein Betriebssystem (v.a. mobile Geräte): Android, Windows, iOS, Linux
+## Künstliche Intelligenz (KI)
+
++ Bedenke: ChatBots wie ChatGPT oder Gemini generieren richtig klingenden Text. Für den Inhalt haben sie kein Gespür.
+
++ Bedenke: Eine Auskunft der KI kann falsch sein. Recheriere besser nach unterschiedlichen Ergebnissen und vergleiche selbst
+
++ Statt auf Lösungen der bekannten "Bigtech-Unternehmen" zu setzen,kann auch lokale installierte KI genutzt werden (z.B. mit localAI)
+
+## Allgemeine Tips
 
 + verschlüssele einzelne sensible Dateien, Festplatten oder ganze Geräte mit Veracrypt
 

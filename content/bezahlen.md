@@ -34,9 +34,9 @@
 
   + Desktop:
 
-    + Portfolioperformance
+    + [Portfolioperformance](https://www.portfolio-performance.info/)
 
-    + KMyMoney
+    + [KMyMoney](https://kmymoney.org/)
 
     + [Jameica/Hibiscus](https://www.willuhn.de/products/hibiscus/)
 
@@ -46,9 +46,9 @@
 
     + Auswahl im [F-Droid-Appstore](https://f-droid.org/de/categories/money/)
 
-    + MoneyBuster und Nextcloud Cospend für gemeinsame Budget-Verwaltung
+    + [MoneyBuster](https://f-droid.org/de/packages/net.eneiluj.moneybuster/) und [Nextcloud Cospend](https://apps.nextcloud.com/apps/cospend) für gemeinsame Budget-Verwaltung
 
-    + [MoneyManager](https://f-droid.org/de/packages/com.money.manager.ex/index.html]
+    + [MoneyManager](https://moneymanagerex.org/)
 
 + Aufgabe:
 
@@ -70,4 +70,4 @@
 
   + [Schufa und Bonify| Verbraucherzentrale](https://www.verbraucherzentrale.nrw/aktuelle-meldungen/geld-versicherungen/app-bonify-einblick-ins-konto-moeglich-86285)
 
-  + [Schufa und Bonify | poste.de](https://posteo.de/news/verbrauchersch%C3%BCtzer-schufa-tochter-keinen-einblick-in-bankkonten-geben)
+  + [Schufa und Bonify | posteo.de](https://posteo.de/news/verbrauchersch%C3%BCtzer-schufa-tochter-keinen-einblick-in-bankkonten-geben)

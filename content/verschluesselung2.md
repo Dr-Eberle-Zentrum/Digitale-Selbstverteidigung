@@ -14,5 +14,5 @@
   * Ggf. virtuelle Maschine mit verschl. OS
 * Literatur:
   * https://www.youtube.com/playlist?list=PLCVtH8NxeV4KRfzfzt9x2KOBVo78vlXY4
-  * 
+  * [BSI Bericht zu Veracrypt](https://www.bsi.bund.de/SharedDocs/Downloads/EN/BSI/Publications/Studies/Veracrypt/Veracrypt.pdf?__blob=publicationFile&v=1)
 

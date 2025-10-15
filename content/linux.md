@@ -22,7 +22,7 @@
     * Gaming on Linux
 * Literatur:
   * https://digitalcourage.de/digitale-selbstverteidigung/gnulinux-now
-  * Linux Essentials Die Einsteiger-Zertifizierung des LPI, TUX-Academy: https://www.tuxcademy.org/download/de/lxes/lxes-de-manual.pdf
+  * Linux Essentials Die [Einsteiger-Zertifizierung des LPI](https://learning.lpi.org/de/learning-materials/010-160/)
   * https://wiki.ubuntuusers.de/Einsteiger/
   * https://itsfoss.com/reasons-switch-linux-windows-xp/
   * [How to run Ubuntu Desktop on a virtual machine using VirtualBox](https://ubuntu.com/tutorials/how-to-run-ubuntu-desktop-on-a-virtual-machine-using-virtualbox#1-overview)

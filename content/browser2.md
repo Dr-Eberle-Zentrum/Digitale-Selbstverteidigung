@@ -33,9 +33,8 @@
   - [How browsers work](https://www.html5rocks.com/de/tutorials/internals/howbrowserswork/)
   - [Digitalcourage: Sicher Surfen](https://digitalcourage.de/digitale-selbstverteidigung#sicher-surfen)
   - [Sicher surfen ohne Tracking und Werbung | Digitalcourage](https://digitalcourage.de/digitale-selbstverteidigung/sicher-surfen-ohne-tracking)
-  - ([Tracking im Netz - Wie uns Cookies und Co. verfolgen - YouTube](https://www.youtube.com/watch?v=KsRnKvDvPng))
+  - [Tracking im Netz - Wie uns Cookies und Co. verfolgen - YouTube](https://www.youtube.com/watch?v=KsRnKvDvPng)
   - [Website Tracking: What It Is &amp; How It Works | Avast](https://www.avast.com/c-web-tracking)
   - [WhoTracks.me - Bringing Transparency to Online Tracking](https://whotracks.me/)
   - [How you are being tracked in the web | Online Tracking explained - YouTube](https://www.youtube.com/watch?v=wefD2N-GWUo)
-  - [Click](https://clickclickclick.click/)
 

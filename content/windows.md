@@ -28,3 +28,4 @@
   * [WSL Softwareinstallation](https://dr-eberle-zentrum.github.io/DataBASHing/install.html)
   * [Linux now | Digitalcourage](https://digitalcourage.de/digitale-selbstverteidigung/gnulinux-now)
   * [AVG - Temporäre Dateien](https://www.avg.com/de/signal/top-three-ways-to-clean-temporary-files-from-your-computer)
+  * [Heise.de - Windows Recall](https://www.heise.de/news/Microsoft-Neustart-der-Recall-KI-Funktionen-in-der-EU-spaeter-10364247.html)

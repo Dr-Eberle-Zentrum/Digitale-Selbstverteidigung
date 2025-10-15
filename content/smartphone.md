@@ -11,7 +11,7 @@
   * AdAway und DNS: [Befreien Sie Ihr Smartphone! | Digitalcourage](https://digitalcourage.de/digitale-selbstverteidigung/befreien-sie-ihr-smartphone#werbung-blocken)
   * mobile Browser: [Sicher Surfen | Digitalcourage](https://digitalcourage.de/digitale-selbstverteidigung/sicher-surfen-smartphone#browser)
   * Vor- und Nachteile von Virenschutzprogrammen (ESET, Bitdefender, Norton etc)
-* Google-Apps-Alternativen:
+* App-Alternativen:
   * Navigation: OSMand, Organic Maps
   * E-Mail: K9Mail
   * Standardapps (Kalender, Kontakte, Dateien, Musik etc): [Fossify](https://www.fossify.org/)
@@ -22,7 +22,7 @@
   * LineaegeOS
   * e/os/
   * [CalyxOS](https://calyxos.org/)
-  * GrapheneOS
+  * [GrapheneOS](https://grapheneos.org/)
   * [Vollaphone](https://volla.online/)
   * Alternative Hersteller:
     * Fairphone, Murena-Smartphone, vollaphone...

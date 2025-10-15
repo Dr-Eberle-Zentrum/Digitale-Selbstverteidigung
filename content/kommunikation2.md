@@ -22,3 +22,4 @@
   * [Alternativen zu WhatsApp – Instant Messenger | Digitalcourage](https://digitalcourage.de/digitale-selbstverteidigung/messenger)
   * https://www.propublica.org/article/how-facebook-undermines-privacy-protections-for-its-2-billion-whatsapp-users
   * [Digitalcourage - Fediverse](https://digitalcourage.de/fediverse)
+  * [Meredith Whittaker zu KI-Agenten - KI verstehen](https://www.deutschlandfunk.de/ki-agenten-meredith-whittaker-sicherheitsrisiko-100.html)

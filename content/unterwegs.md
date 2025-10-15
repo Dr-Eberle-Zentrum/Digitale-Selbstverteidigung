@@ -37,6 +37,6 @@
   * [In-Store-Tracking: Wo der Hotspot im Shop ist - DMS](https://www.digitale-medien.at/instore-tracking-wo-der-hotspot-im-shop-ist/)
   * [How easy is it to capture data on public free Wi-Fi? - Gary explains - YouTube](https://www.youtube.com/watch?v=YzP3ZL4vlkY)
   * [Vortrag Offline-Tracking: Track me if you...oh](https://media.ccc.de/v/35c3chaoswest-25-track-me-if-you-oh-)
-  * Der letzte Abschnitt hiervon: [Supermarkt-Apps: Rabatte und Risiken | Verbraucherzentrale.de](https://www.verbraucherzentrale.de/wissen/digitale-welt/apps-und-software/supermarktapps-rabatte-und-risiken-33057)
+  * [Supermarkt-Apps: Rabatte und Risiken | Verbraucherzentrale.de](https://www.verbraucherzentrale.de/wissen/digitale-welt/apps-und-software/supermarktapps-rabatte-und-risiken-33057)
 
 

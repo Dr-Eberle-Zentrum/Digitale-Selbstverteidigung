@@ -35,6 +35,6 @@
     - [Datenschutz bei Forschungsvorhaben | Universität Kassel](https://www.uni-kassel.de/uni/files/Forschung/Forschungsfoerderung/Rahmenbedingungen_guter_Forschung/Datenschutz_bei_FV/Datenschutz_bei_Forschungsvorhaben.pdf)
     - [Verbund Forschungsdaten Bildung (VerbundFDB)](https://www.forschungsdaten-bildung.de/daten-sichern#Sicherung-personenbezogener-Daten)
   - Universitäre Clouddienste: 
-    - [Microsoft 365&#32;&#124; Universität Tübingen](https://uni-tuebingen.de/einrichtungen/zentrum-fuer-datenverarbeitung/dienstleistungen/clouddienste/microsoft-365/)
+    - [Microsoft 365&#32;&#124; Universität Tübingen](https://uni-tuebingen.de/de/221199)
     - [Seafile (Sync-and-Share-Plattform) | Zentrum für Datenverarbeitung Universität Mainz](https://www.zdv.uni-mainz.de/seafile/)
-    - [BWSync&Share](https://bwsyncandshare.kit.edu/)
+    - [BWSync&Share](https://help.bwsyncandshare.kit.edu/) und [Liste der Einrichtungen](https://help.bwsyncandshare.kit.edu/140.php)

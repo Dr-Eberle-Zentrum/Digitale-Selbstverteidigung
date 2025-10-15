@@ -37,9 +37,9 @@
 * Literatur:
   
   * [Youtube](https://www.youtube.com/watch?v=jtFc6B5lmIM)
-  * Passwortmanager: 
-    * [Tomsguide](https://www.tomsguide.com/us/best-password-managers,review-3785.html)
+  * Passwortmanager:  
     * [BSI](https://www.bsi.bund.de/DE/Themen/Verbraucherinnen-und-Verbraucher/Informationen-und-Empfehlungen/Cyber-Sicherheitsempfehlungen/Accountschutz/Sichere-Passwoerter-erstellen/Passwort-Manager/passwort-manager_node.html)
   * Grundlagen: 
     * [PC-Magazin](https://www.pc-magazin.de/ratgeber/pc-sicherheit-goldene-regeln-tipps-3196621.html)
-    [Digitalcourage - Passwörter](https://digitalcourage.de/digitale-selbstverteidigung/sicherheit-beginnt-mit-starken-passwoertern)
+    * [Digitalcourage - Passwörter](https://digitalcourage.de/digitale-selbstverteidigung/sicherheit-beginnt-mit-starken-passwoertern)
+    * [BSI - Passkeys]8https://www.bsi.bund.de/DE/Themen/Verbraucherinnen-und-Verbraucher/Informationen-und-Empfehlungen/Cyber-Sicherheitsempfehlungen/Accountschutz/Passkeys/passkeys-anmelden-ohne-passwort_node.html)

@@ -44,6 +44,8 @@ In diesem Repository findet sich eine Sammlung von Themen und korrespondierenden
 
 ### [Kollaboratives Arbeiten II: Git](content/git.md)
 
+### [KI: Herausforderungen und Alternativen](content/KI.md)
+
 ### [Alternative Schreibtools](content/schreiben.md)
 
 ### [Geld und Datenschutz](content/bezahlen.md)

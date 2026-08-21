@@ -50,6 +50,12 @@
 
     + [MoneyManager](https://moneymanagerex.org/)
 
+  + Webapps/Browseranwendungen:
+
+    + [Firefly III](https://www.firefly-iii.org/)
+   
+    + [ActualBudget](https://actualbudget.org/)
+
 + Aufgabe:
 
   + eigenes Bezahlverhalten analysieren

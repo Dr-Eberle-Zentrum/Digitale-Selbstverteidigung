@@ -29,6 +29,16 @@
   + Vorsicht bei Ratenkauf und Kauf auf Kredit
     
     + Finanziell und aus Datenschutzperspektive keine gute Idee
+   
++ [GNUTaler-Projekt](https://www.taler.net/de/index.html)
+
+  + Ziele
+ 
+  + Funktionsweise
+ 
+  + Einsatzszenarien
+ 
+  + Roadmap
 
 + Open Source Tools zur Finanzverwaltung:
 
